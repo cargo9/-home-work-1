@@ -7,7 +7,7 @@ console.log(name);
 let isStudent = true;
 console.log(isStudent);
 
-let myString = "Yaroslav";
+let myString = "кетчуп";
 console.log(myString);
 
 let myNumber = 1+10;
