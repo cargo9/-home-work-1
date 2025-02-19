@@ -19,8 +19,8 @@ console.log(userName);
 
 alert(typeof userName);
 
-confirm(outMessage);
 let outMessage = "Ви дійсно хочете покинути сторінку?";
+confirm(outMessage);
 console.log(outMessage);
 
 let warning = "Увага! Дія може бути небезпечною." 
